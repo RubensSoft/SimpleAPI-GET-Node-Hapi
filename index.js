@@ -11,6 +11,6 @@ start();
 
 // get method function
 server.route({path: '/', method: 'GET', handler: (request, h) => {
-        return [{message: 'Hello Wazuh'}];
+        return [{message: 'Hello'}];
     }
 });

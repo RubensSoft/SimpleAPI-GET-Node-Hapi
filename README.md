@@ -54,7 +54,7 @@ Or we can use curl to perform the get request.
 
 ruben@ruben-VirtualBox:~$ curl http://localhost:3000
 
-[{"message":"Hello Wazuh"}]
+[{"message":"Hello"}]
 
 
 ## Deployment 📦
